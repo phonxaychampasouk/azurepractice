@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wwstudent\\Desktop\\CosmosLabExample\\CosmosLab\\Labs01\\Labs01.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wwstudent\\Desktop\\CosmosLabExample\\CosmosLab\\Labs01\\Labs01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wwstudent\\Desktop\\CosmosLabExample\\CosmosLab\\Labs01\\Labs01.csproj",
+        "projectName": "Labs01",
+        "projectPath": "C:\\Users\\wwstudent\\Desktop\\CosmosLabExample\\CosmosLab\\Labs01\\Labs01.csproj",
+        "packagesPath": "C:\\Users\\wwstudent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wwstudent\\Desktop\\CosmosLabExample\\CosmosLab\\Labs01\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wwstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[22.0.8, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\bin\Debug\netcoreapp2.2\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\bin\Debug\netcoreapp2.2\Cosmos.CRTCompat.dll
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\bin\Debug\netcoreapp2.2\Labs01.deps.json
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\bin\Debug\netcoreapp2.2\Labs01.runtimeconfig.json
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\bin\Debug\netcoreapp2.2\Labs01.runtimeconfig.dev.json
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\bin\Debug\netcoreapp2.2\Labs01.dll
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\bin\Debug\netcoreapp2.2\Labs01.pdb
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\obj\Debug\netcoreapp2.2\Labs01.csprojAssemblyReference.cache
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\obj\Debug\netcoreapp2.2\Labs01.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\obj\Debug\netcoreapp2.2\Labs01.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\obj\Debug\netcoreapp2.2\Labs01.AssemblyInfo.cs
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\obj\Debug\netcoreapp2.2\Labs01.dll
+C:\Users\wwstudent\Desktop\CosmosLabExample\CosmosLab\Labs01\obj\Debug\netcoreapp2.2\Labs01.pdb
